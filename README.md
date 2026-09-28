@@ -55,7 +55,7 @@ Pada langkah ketujuh dibuat struktur halaman menggunakan semantic HTML. Elemen y
 **Output:**  
 ![gambar7](images/gambar7.png)
 
-### Menambahkan Multimedia  
+### 8. Menambahkan Multimedia  
 Pada langkah kedelapan ditambahkan elemen multimedia berupa audio dan video ke dalam halaman HTML. File multimedia diletakkan di dalam folder `media`, kemudian dipanggil menggunakan elemen `audio` dan `video`. Atribut `controls` digunakan agar pengguna dapat mengontrol pemutaran media.<br>
 **Code:**  
 ![code8](images/code8.png)<br>
